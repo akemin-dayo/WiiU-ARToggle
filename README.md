@@ -2,9 +2,9 @@
 
 WiiU-ARToggle is a simple app that toggles the Homebrew Channel on a Wii U between the 16:9 and 4:3 aspect ratios.
 
-This app is useful for quickly switching the Homebrew Channel to a 16:9 aspect ratio when launched via the Wii U "vWii" System Menu.
+This app is useful for quickly switching the Homebrew Channel to a 16:9 aspect ratio when launched via the Wii U ("vWii") System Menu.
 
-It is also useful for switching the Homebrew Channel *back* to a 4:3 aspect ratio for some homebrew (such as many retro console emulators) that display optimally at in a 4:3 aspect ratio.
+It is also useful for switching the Homebrew Channel *back* to a 4:3 aspect ratio for some homebrew (such as many retro console emulators) that display optimally in a 4:3 aspect ratio.
 
 Note that WiiU-ARToggle does not work on normal Wiis (it simply has no effect when run).
 
