@@ -1,0 +1,6 @@
+*.dol
+*.elf
+*.zip
+build/
+apps/
+*.sublime-workspace
